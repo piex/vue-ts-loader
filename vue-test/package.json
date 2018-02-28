@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack -p"
+  },
   "dependencies": {
     "css-loader": "^0.28.10",
     "vue-loader": "^14.1.1",

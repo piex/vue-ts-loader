@@ -2,5 +2,15 @@
   "name": "vue-ts-loader",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack -p"
+  },
+  "dependencies": {
+    "typescript": "^2.7.2",
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  }
 }

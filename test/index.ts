@@ -1,5 +1,5 @@
 @Component({
-  templateUrl:'./a.html',
-  styleUrls: ['./a.css'],
+  templateUrl: './test.html',
+  styleUrls: ['./test.css'],
   scoped: true
 })
