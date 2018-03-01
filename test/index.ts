@@ -1,5 +1,7 @@
+import path from 'path'
+
 @Component({
   templateUrl: './test.html',
   styleUrls: ['./test.css'],
-  scoped: true
+  styleType: 'scoped',
 })
