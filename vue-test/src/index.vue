@@ -1,14 +1,13 @@
 <template>
   <div>{{a}}</div>
 </template>
-<script lang="ts">
-import Vue from 'vue';
-export default Vue.extend({});
+<script>
+export default {
+  data() {
+    a: 10;
+  }
+};
 </script>
-
-<style lang="scss" scoped>
-
-</style>
 
 
 <style scoped>
